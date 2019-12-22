@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="email"> Enter Your E-mail ID</string>
+    <string name="password"> Enter Your Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="first_name"> Enter Your First Name</string>
+    <string name="last_name"> Enter Your Last Name</string>
+    <string name="no_account">No Account??? No Problem! Tap Here :)</string>
+    <string name="curriculum">Curriculum</string>
+    <string name="section_name"> Please Enter Section Name</string>
+    <string name="lecture_name"> Please Enter Lecture Name</string>
+    <string name="add_section">Add Section</string>
+    <string name="add_lecture">Add Lecture</string>
+    <string name="current_section">Section : </string>
+    <string name="default_value">Default</string>
+</resources>
